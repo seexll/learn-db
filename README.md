@@ -1,0 +1,2 @@
+# learn-db
+db note
